@@ -8,8 +8,7 @@ Soy ingeniero en sistemas  Estoy ampliando mis conocimientos en desarrollo front
   - Node.js
   - React
 - 👯 Me entusiasma colaborar en proyectos.
-- ✔ Pregúntame sobre cualquier cosa, con gusto te ayudaré.<br>
-- Fuera de la tecnología, 💜me encanta 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.
+- Fuera de la tecnología, 💜me encanta 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer libros.
 - 📫 Reach out to me at: <a href="bryangarcia21uni@gmail.com">bryangarcia21uni@gmail.com</a>
 
 ## My Skills Include
